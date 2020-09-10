@@ -1,0 +1,9 @@
+version: "1"
+rules:
+  - base: master
+    upstream: washingtonpost:master
+    mergeMethod: merge
+    mergeUnstable: false
+    conflictReviewers:
+      - eTakow
+label: ":arrow_heading_down: pull"
