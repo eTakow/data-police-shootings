@@ -1456,7 +1456,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 1643,Pedro Cruz-Amado,2016-06-21,shot,chair,24,M,H,Lawndale,NC,True,attack,Not fleeing,False,-81.473,35.429,True
 1641,Josiah Williams,2016-06-22,shot,gun,25,M,W,Colorado Springs,CO,False,attack,Not fleeing,False,-104.767,38.795,True
 1644,Isaiah Core,2016-06-22,shot,,20,M,B,Birmingham,AL,False,attack,Car,False,-86.721,33.534,True
-1645,Roger Ponce,2016-06-22,shot,knife,37,M,W,Wellington,FL,False,other,Not fleeing,False,-80.265,26.663,True
+1645,Roger Ponce,2016-06-22,shot,knife,37,M,,Wellington,FL,False,other,Not fleeing,False,-80.265,26.663,True
 1646,Quencezola Maurice Splunge,2016-06-22,shot,gun,44,M,B,Walls,MS,False,attack,Foot,False,-90.096,34.962,True
 1647,Deravis Caine Rogers,2016-06-22,shot,unarmed,22,M,B,Atlanta,GA,False,undetermined,Other,True,-84.37,33.811,True
 1651,Shaun Trevor Walke,2016-06-22,shot,gun,31,M,W,Bellville,TX,False,attack,Not fleeing,True,-96.198,29.917,True
@@ -6236,7 +6236,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6789,Robert Douglas Delgado,2021-04-16,shot,toy weapon,46,M,,Portland,OR,False,other,,False,-122.572,45.487,True
 6785,,2021-04-17,shot,gun,,M,,Alameda County,CA,False,attack,,False,-122.061,37.668,False
 6821,Smoky Crockett,2021-04-17,shot,gun,60,M,,Fort Lupton,CO,False,attack,Not fleeing,False,-104.762,40.109,True
-6823,,2021-04-17,shot,undetermined,,M,,Kingman,AZ,False,undetermined,Car,False,-114.039,35.267,True
+6823,Bradley Rose,2021-04-17,shot,undetermined,29,M,,Kingman,AZ,False,other,Car,False,-114.039,35.267,True
 6824,Matthew Harry,2021-04-17,shot,gun,26,M,,Hayward,CA,False,attack,Not fleeing,True,-122.06,37.668,True
 6825,Juan James Cordova,2021-04-17,shot,gun,51,M,,Ventana Ranch,NM,False,attack,Not fleeing,False,,,True
 6782,Larry Jenkins,2021-04-17,shot and Tasered,gun,52,M,B,Winter Haven,FL,False,other,Not fleeing,False,-81.68,28.009,True
@@ -6285,8 +6285,20 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6853,Demilo Hodge,2021-05-12,shot,gun,45,M,,Emeryville,CA,False,attack,Car,False,-122.296,37.838,True
 6851,Aaron Schneider,2021-05-14,shot,gun,33,M,,Fremont,NE,True,attack,,False,-96.476,41.429,True
 6852,Mark Gaskill,2021-05-14,shot,gun,28,M,,Rochester,NY,False,other,Car,False,-77.64,43.161,True
-6854,,2021-05-14,shot,gun,,M,,Pennington County,SD,False,attack,,False,-103.091,44.07,True
+6854,,2021-05-14,shot,gun,,M,,Pennington County,SD,True,attack,,False,-103.091,44.07,True
 6855,,2021-05-14,shot,gun,,M,,Denver,CO,False,other,Car,False,-105.04,39.718,True
 6848,,2021-05-15,shot,gun,,M,W,Birmingham,AL,False,undetermined,,False,-86.8,33.5,True
-6849,,2021-05-16,shot,knife,,M,,Baltimore,MD,False,other,,True,-76.593,39.311,True
-6858,,2021-05-16,shot,gun,,M,W,Omaha,NE,False,attack,Not fleeing,False,-95.975,41.22,True
+6849,Timothy Fleming,2021-05-16,shot,knife,49,M,,Baltimore,MD,False,other,,True,-76.593,39.311,True
+6858,Deven Telford,2021-05-16,shot,gun,34,M,W,Omaha,NE,True,attack,Not fleeing,False,-95.975,41.22,True
+6862,Xavier Kilby,2021-05-17,shot,gun,35,M,,Dickinson,ND,False,attack,,False,-102.779,46.906,True
+6863,Garrett Sheppard,2021-05-17,shot,undetermined,32,M,,Peoria,AZ,False,attack,,True,-112.27,33.553,True
+6860,,2021-05-18,shot,undetermined,,M,,Decatur,GA,False,undetermined,,False,-84.297,33.77,True
+6864,,2021-05-18,shot,gun,,M,,Montgomery,AL,False,attack,,False,-86.141,32.369,True
+6865,,2021-05-18,shot,undetermined,,M,,Rogue River,OR,False,undetermined,Car,False,-123.187,42.535,True
+6861,,2021-05-19,shot,undetermined,,M,,Eaton County,MI,False,undetermined,,False,-84.854,42.548,True
+6870,,2021-05-19,shot,knife,,M,,Denver,CO,False,other,Not fleeing,False,-105.025,39.673,True
+6871,Darion M. Lafayette,2021-05-19,shot,gun,24,M,B,Champaign,IL,False,attack,Not fleeing,False,,,True
+6866,,2021-05-20,shot,gun,,M,,Washington County,VA,False,attack,Not fleeing,False,-81.899,36.742,True
+6867,,2021-05-20,shot,gun,31,M,,Pittsburg,CA,False,attack,Not fleeing,True,-121.872,38.006,True
+6869,,2021-05-20,shot,knife,,M,,Manorville,NY,False,other,Not fleeing,False,,,True
+6868,Kortnee Lashon Warren,2021-05-21,shot,gun,23,M,,Albany,GA,False,attack,Not fleeing,False,-84.158,31.571,True
