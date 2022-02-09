@@ -5946,6 +5946,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 6477,Jeffrey Marvin,2020-12-31,shot,vehicle,63,M,,Starke County,IN,False,attack,Car,False,-86.469,41.411,True
 6480,Carl Dorsey,2021-01-01,shot,undetermined,39,M,B,Newark,NJ,False,undetermined,,False,-74.202,40.739,True
 6483,Isaac Matheny,2021-01-01,shot,toy weapon,37,M,B,Valley Falls,OR,False,other,,False,-120.282,42.484,True
+7643,Jeffrey L. Marvin,2021-01-01,shot,vehicle,63,M,,Valparaiso,IN,False,attack,Car,False,-87.065,41.46,True
 6542,Anthony Bernal Cano,2021-01-02,shot,gun,17,M,H,Chandler,AZ,False,other,Other,True,-111.836,33.311,True
 6592,Daniel Alvarado,2021-01-02,shot,gun,38,M,H,San Gabriel,CA,False,attack,Not fleeing,False,-118.09,34.076,True
 6478,James Reising,2021-01-03,shot,knife,49,M,W,Jefferson City,MO,False,other,,False,-92.249,38.58,True
@@ -6999,6 +7000,7 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7463,,2021-12-31,shot,vehicle,,M,,Beaumont,CA,False,attack,Car,False,,,True
 7492,,2021-12-31,shot,gun,,M,,Meridian,MS,False,attack,Not fleeing,False,,,True
 7462,Michael Dobbins,2022-01-01,shot,gun,63,M,,Jonesboro,LA,False,attack,Foot,False,,,True
+7661,James Williams,2022-01-01,shot,gun,46,M,B,Canton,OH,False,attack,Not fleeing,True,-81.405,40.793,True
 7461,,2022-01-02,shot,gun,,M,,Wildomar,CA,True,other,,False,,,True
 7453,Charles Corey Castro,2022-01-03,shot,unknown weapon,54,M,,Murphy,ID,False,other,Not fleeing,False,,,True
 7458,Caleb Stanford,2022-01-03,shot,knife,26,M,,Mesa,AZ,False,attack,Not fleeing,False,,,True
@@ -7007,7 +7009,26 @@ id,name,date,manner_of_death,armed,age,gender,race,city,state,signs_of_mental_il
 7448,Carl Schaede,2022-01-04,shot,gun,53,M,,Paulden,AZ,False,attack,Car,False,,,True
 7452,,2022-01-04,shot,gun,,M,,Philadelphia,PA,False,attack,Not fleeing,False,,,True
 7454,Stephanie Wilson,2022-01-04,shot,gun,28,F,,Bahama,NC,False,attack,,False,,,True
+7664,Tony Edwards,2022-01-05,shot,gun,53,M,,Frankfort,KY,False,attack,Not fleeing,False,,,True
 7465,Isaiah Tyree Williams,2022-01-10,shot,gun,19,M,,Las Vegas,NV,False,undetermined,Not fleeing,False,,,True
 7467,Issac Andrade,2022-01-10,shot,gun and knife,21,M,,San Diego,CA,False,attack,Foot,False,,,True
 7466,Charles Walker Piquet,2022-01-12,shot,glass shard,51,M,,Durham,NC,False,undetermined,,False,,,True
 7468,Edgar Morfin Mendoza,2022-01-13,shot,hammer,34,M,,Fresno,CA,False,other,Not fleeing,False,,,True
+7666,Nelson Szeto,2022-01-20,shot,gun,37,M,,San Francisco,CA,True,undetermined,Not fleeing,False,,,True
+7665,Lashawn McNeil,2022-01-21,shot,gun,47,M,,New York,NY,False,undetermined,Foot,False,,,True
+7659,Sean Michael Kinney,2022-01-23,shot,knife,37,M,,Newnan,GA,False,undetermined,Not fleeing,False,,,True
+7662,Paul Courtemanche,2022-01-23,shot,knife,42,D,,Burlington,MA,True,undetermined,Not fleeing,False,,,True
+7663,Tyron Coates,2022-01-23,shot,gun,24,M,,Lafayette,LA,False,undetermined,Foot,False,,,True
+7658,Peterson Kamo,2022-01-24,shot,knife,,M,,Spokane,WA,True,undetermined,Not fleeing,False,,,True
+7655,Ronnie Walker,2022-01-25,shot,,58,M,,Madison County,MO,False,undetermined,Not fleeing,False,,,True
+7656,Derek Rock,2022-01-25,shot,gun,30,M,,Aragon,GA,True,undetermined,Not fleeing,False,,,True
+7657,John Hunt,2022-01-25,shot,gun and car,20,M,,Memphis,TN,True,undetermined,Car,False,,,True
+7654,,2022-01-26,shot,gun,,M,,Ferguson,MO,False,undetermined,Foot,False,,,True
+7651,,2022-01-28,shot,,,M,,Coachella,CA,False,undetermined,Foot,False,,,True
+7652,Mitchell Hooe,2022-01-28,shot,unarmed,28,M,,Springfield,MO,False,undetermined,Not fleeing,False,,,True
+7653,Landon Eastep,2022-01-28,shot,box cutter,37,M,,Nashville,TN,True,undetermined,Not fleeing,True,,,True
+7649,,2022-01-29,shot,knife,,M,,Denton,TX,False,undetermined,Not fleeing,False,,,True
+7650,Donald Sahota,2022-01-29,shot,gun,52,M,W,Battle Ground,WA,False,undetermined,Foot,False,,,True
+7648,Michael Trappett,2022-01-31,shot,knife,,M,,Orofino,ID,False,undetermined,Not fleeing,False,,,True
+7647,Dustin Davidson,2022-02-01,shot,gun,29,M,,Wichita  Falls,TX,False,undetermined,Not fleeing,False,,,True
+7646,Amir Locke,2022-02-02,shot,gun,22,M,B,Minneapolis,MN,False,undetermined,Not fleeing,False,,,True
